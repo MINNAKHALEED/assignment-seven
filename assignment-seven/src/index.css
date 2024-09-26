@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+/* const products = [
+  { title: 'Apple', price: 12, rate: 5, description: 'this is an apple' },
+  { title: 'Orange', price: 10, rate: 4, description: 'this is an orange' },
+  { title: 'Banana', price: 11, rate: 3, description: 'this is a banana' },
+]; */
+
